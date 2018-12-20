@@ -1,2 +1,2 @@
 # howdy-partner
-Hello world variant for practice
+Python hello world variant for practice
